@@ -21,14 +21,8 @@ The project follows a structured approach to analyze and transform health-relate
 - **Dimensionality Reduction**: Using **Principal Component Analysis (PCA)** to simplify the dataset while retaining meaningful patterns.
 
 ## **Technologies Used**
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc)
 - **Jupyter Notebook** (For interactive data exploration)
-- **GitHub** (Version control and project documentation)
 
 ## **Project Impact**
 By providing a data-driven view of global health trends, this project enables researchers, policymakers, and organizations to make informed decisions. The insights derived from this analysis can help improve healthcare systems, allocate resources efficiently, and drive positive change toward achieving **SDG Goal 3**.
-
-## **How to Use This Repository**
-1. Clone the repository using:
-   ```bash
-   git clone <repository_link>
